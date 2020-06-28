@@ -1,0 +1,22 @@
+h1{
+    text-align:center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+img{
+    max-width:100%;
+}
+p{
+    text-align:auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:15px;
+    margin-top:15px;
+}
+body{
+    background-color:#eff4f5;
+}
+#fotoResponsiva{
+    padding:40px 20px;
+    text-align:center;
+    width:auto;
+}
