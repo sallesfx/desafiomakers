@@ -10,12 +10,13 @@ a{
     text-align:center;
     font-size:30px;
     color:black;
-    
-
 };
 p{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align:center;
-    border:80px;
     color:white;
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin:0px;
 }
